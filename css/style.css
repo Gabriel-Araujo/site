@@ -404,6 +404,17 @@ nav div {
   min-width: 200px;
 }
 
+#blink {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker
+{
+  50% {
+    opacity: 0;
+  }
+}
+
 #aboutSection {
   grid-area: about;
   background: #52AAEA;
@@ -451,5 +462,14 @@ nav div {
 #contactsSession a {
   color: white;
   text-decoration: none;
+}
+
+.socialImg {
+  width: 30px;
+  height: 30px;
+}
+
+#contactsSession div {
+  padding-top: 1vh;
 }
 

@@ -2,7 +2,7 @@
   "short_name": "",
   "name": "",
   "icons": [{
-    "src": "/static/icons/letter-g.png",
+    "src": "/site/static/icons/favicon.png",
     "type": "image/png",
     "sizes": "192x192"
   }],

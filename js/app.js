@@ -1,1 +1,1 @@
-setInterval((function(){let e=document.getElementById("welcomeText"),t=e.innerText;t.charAt(t.length),e.innerText=t.substring(0,t.length-1),setTimeout((()=>{e.innerText=t.substring(0,t.length)}),2000)}),2000);
+(()=>{const e=document.getElementById("welcomeText"),t=e.innerText,n=t.substring(0,t.length-1);setInterval((()=>{e.innerText=n,setTimeout((()=>{e.innerText=t}),500)}),1e3)})();
