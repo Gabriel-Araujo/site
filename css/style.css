@@ -356,38 +356,38 @@ nav div {
 }
 
 #homeButton {
-  background: url(/static/icons/home.png) 0 0 no-repeat;
+  background: url(/site/static/icons/home.png) 0 0 no-repeat;
 }
 
 #homeButton:hover {
-  background: url(/static/icons/home.gif) 0 0 no-repeat;
+  background: url(/site/static/icons/home.gif) 0 0 no-repeat;
   cursor: pointer;
 }
 
 #aboutButton {
-  background: url(/static/icons/info.png) 0 0 no-repeat;
+  background: url(/site/static/icons/info.png) 0 0 no-repeat;
 }
 
 #aboutButton:hover {
-  background: url(/static/icons/info.gif) 0 0 no-repeat;
+  background: url(/site/static/icons/info.gif) 0 0 no-repeat;
   cursor: pointer;
 }
 
 #tecsButton {
-  background: url(/static/icons/loading.png) 0 0 no-repeat;
+  background: url(/site/static/icons/loading.png) 0 0 no-repeat;
 }
 
 #tecsButton:hover {
-  background: url(/static/icons/loading.gif) 0 0 no-repeat;
+  background: url(/site/static/icons/loading.gif) 0 0 no-repeat;
   cursor: pointer;
 }
 
 #contactsButton {
-  background: url(/static/icons/email.png) 0 0 no-repeat;
+  background: url(/site/static/icons/email.png) 0 0 no-repeat;
 }
 
 #contactsButton:hover {
-  background: url(/static/icons/email.gif) 0 0 no-repeat;
+  background: url(/site/static/icons/email.gif) 0 0 no-repeat;
   cursor: pointer;
 }
 
